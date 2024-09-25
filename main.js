@@ -8,7 +8,7 @@
             return lado*lado;
            }
            console.log (calcularAreaQuadrado (8));
-           let media= function (___){
-            return _____;
+           let media= function (num4 num5 num6){
+            return x+y+z/3 ;
            }
-           console.log (______)
+           console.log ()
