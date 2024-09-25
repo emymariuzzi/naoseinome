@@ -7,4 +7,4 @@
            function calcularAreaQuadrado(lado){
             return lado*lado;
            }
-           console.log (calcularAreaQuadrado (8))
+           console.log (calcularAreaQuadrado (8));
