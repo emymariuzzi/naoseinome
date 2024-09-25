@@ -12,4 +12,4 @@
             return x+y+z/3 ;
            }
            console.log (media (10,10,10))
-           let parseint (prompt ('?'))
+           let numero= parseint (prompt ('?'))
