@@ -8,7 +8,7 @@
             return lado*lado;
            }
            console.log (calcularAreaQuadrado (8));
-           let numero= parseint (prompt ('?'))
+           let numero= parseInt (prompt (x,y,z))
            let media= function (x,y,z){
             return x+y+z/3 ;
            }
