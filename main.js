@@ -11,4 +11,4 @@
            let media= function (x,y,z){
             return x+y+z/3 ;
            }
-           console.log (media (2,3,4))
+           console.log (media (10,10,10))
