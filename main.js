@@ -1,5 +1,5 @@
 
-           alert ('emilly mariuzzi e victor wolpe')
+           alert ('emilly mariuzzi e maria luiza')
            function soma (numero1, numero2){
             return numero1+numero2;
            }
