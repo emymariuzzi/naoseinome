@@ -13,5 +13,5 @@
         //    }
         //    console.log (media (10,10,10))
 
-    let estados = ['PR','RJ','MT','MG']
+    let estados = ['PR','RJ','MT','MG','AC','AL','AP','AM','BA','CE''DF','ES','GO','MA','MS','PA','PB','PE','PI','RN','RO','RS','SC','SP','SE','TO']
         
