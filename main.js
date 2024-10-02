@@ -13,14 +13,22 @@
 //    }
 //    console.log (media (10,10,10))
 
-let estados = ['PR', 'RJ', 'MT', 'MG', 'AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MS', 'PA', 'PB', 'PE', 'PI', 'RN', 'RO', 'RS', 'SC', 'SP', 'SE', 'TO']
-let i = 0;
-while (i < estados.length) {
-    console.log(i);
-    console.log(estados[i]);
-    i = i + 1;
-}
-for (let i = 0; estados.length; i++) {
-    console.log(i);
-    console.log(estados[i]);
-}   
+// let estados = ['PR', 'RJ', 'MT', 'MG', 'AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MS', 'PA', 'PB', 'PE', 'PI', 'RN', 'RO', 'RS', 'SC', 'SP', 'SE', 'TO']
+// let i = 0;
+// while (i < estados.length) {
+//     console.log(i);
+//     console.log(estados[i]);
+//     i = i + 1;
+// }
+// for (let i = 0; estados.length; i++) {
+//     console.log(i);
+//     console.log(estados[i]);
+// }   
+
+let idade= 16;
+       if (idade>17){
+        console.log ('pode dirigir');
+       }
+       else{
+        console.log ('ilegal dirigir');
+       }
